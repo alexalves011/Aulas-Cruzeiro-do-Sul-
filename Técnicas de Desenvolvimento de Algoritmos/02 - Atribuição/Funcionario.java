@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class CadastroFuncionario {
+public class Funcionario {
 
     public static void main(String[] args) {
         
@@ -27,7 +27,7 @@ public class CadastroFuncionario {
 
         
         
-        System.out.println("\n--- DADOS DO FUNCIONÁRIO ---"); 
+        System.out.println(" DADOS DO FUNCIONÁRIO "); 
         System.out.println("Nome: " + nome);
         System.out.println("Quantidade de Dependentes: " + quantidadeDependentes);
         System.out.println("Cargo: " + cargo);
