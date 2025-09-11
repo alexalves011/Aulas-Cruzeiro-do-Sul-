@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .cor{color:red}
+        form{
+            background-color: rgb(63, 150, 238);
+            width: 400px;
+            margin: auto;
+        }
+
+        h2{
+           text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    
+    <h2> Calcula Vendas broa e pao </h2>
+
+    <form onsubmit="calcular(event)">
+
+        <label for=""> quantidade de paes </label>
+        <input type="text" id="paes" size="5"> <br>
+        <label for=""> quantidade de Broas </label>
+        <input type="text" id="broas" size="5"> <br>
+
+        <input type="submit">
+
+    </form>
+
+    <div id="resultado"> </div>
+
+    <Script>
+        function calcular (event){
+            event.preventDefault()
+            var qtdpao = document.getElementById('paes') .value
+            var qtdbroa = document.getElementById('broas') .value
+
+            var total = (qtdpao * 0.12) + (qtdbroa * 1.50)
+            var poupanca = total * 0.10
+
+
+            document.getElementById('resultado').innerHTML = 
+            "<p class='cor'> total arrecadado " + total.toFixed(2) + "</p>" +
+             "<p> Valor na Poupança " + poupanca.toFixed(2) + "</p>"
+        }
+    </Script>
+
+
+
+</body>
+</html>
