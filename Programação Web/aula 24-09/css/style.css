@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: black;
+    padding: 15px 0px;
+    position: sticky;
+    top: 0;
+}
+
+nav{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+}
+
+nav a {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+}
+
+nav a:hover{
+    background-color: #555;
+}
+
+.conteiner{
+    width: 650px;
+    padding: 30px;
+    padding-top: 80px;
+    font-size: 20px;
+}
