@@ -1,0 +1,75 @@
+.main{
+    width: 400px;
+    min-height: 400px;
+    margin: auto;
+    
+   background-color: rgb(216, 216, 216);
+   border: 1;
+
+    
+}
+
+.main h1{
+   text-align: center;
+   font-family: verdana;
+   padding-top: 20px;
+
+}
+
+.main p{
+    text-align: center;
+    font-family: verdana;
+    padding-top: 20px;
+    font-size: 14px;
+ }
+
+
+
+
+input, select, button   {
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 15px;
+    display: block;
+    width: 300px;
+    margin: auto;
+
+}
+
+button{
+    background-color: blue;
+    color: white;
+    font-family: verdana;
+    border: solid 2px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#resultado{
+    width: 280px;
+    margin-top: 30px;
+    padding: 10px;
+    border: solid 1px #ccc;
+    background-color: #f0f0f0;
+    margin: auto;
+    
+   
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 50px;
+    margin-top: 10px;
+
+}
+
+.erro{
+    border-color: red;
+    background-color: #F8D7DA;
+    color: #721C24;
+    font-weight: bold;
+}
