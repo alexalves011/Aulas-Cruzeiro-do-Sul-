@@ -1,42 +1,37 @@
 <!DOCTYPE html>
 <html lang="pr-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-   
-
-</head>
-<body>
-
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <div class="main">
-        <h1> Formulário </h1>
-        <p>Preencha e clique para ver o javascripit em ação</p>
+      <h1>Formulário</h1>
+      <p>Preencha e clique para ver o javascripit em ação</p>
 
-        <label for=""> Nome aluno </label>
-        <input type="text" id="camponome" placeholder="Digite seu nome">
-        <label for=""> Sobrenome </label>
-        <input type="text" id="campoSobreNome" placeholder="Digite seu sobrenome">
+      <label for=""> Nome aluno </label>
+      <input type="text" id="camponome" placeholder="Digite seu nome" />
+      <label for=""> Sobrenome </label>
+      <input
+        type="text"
+        id="campoSobreNome"
+        placeholder="Digite seu sobrenome"
+      />
 
-        <label for=""> turno </label>
-        <select id="camponome">
-            <option value="Manhã">Manhã</option>
-            <option value="tarde">Tarde</option>    
-            <option value="noite">Noite</option>
-        </select>
+      <label for=""> turno </label>
+      <select id="campoturno">
+        <option value="Manhã">Manhã</option>
+        <option value="tarde">Tarde</option>
+        <option value="noite">Noite</option>
+      </select>
 
-        <button onclick="botaoMostrar()"> Mostrar </button>
+      <button onclick="botaoMostrar()">Mostrar</button>
 
-        <div  id="resultado"> Aguardando interação </div>
+      <div id="resultado">Aguardando interação</div>
+    </div>
+  </body>
 
-   
-</div>
-
-
-    
-</body>
-
-<script src="scripit.js"></script>
-
+  <script src="scripit.js"></script>
 </html>
