@@ -6,17 +6,17 @@ public class calculo {
 
         Scanner leia = new Scanner(System.in);
 
-        System.out.println("digite o valor da compra");
+        System.out.println("digite o total KM Percorrido");
         float c = leia.nextFloat();
-        System.out.println("digite o valor da parcela");
+        System.out.println("digite o total de litros de combustivel gasto ");
         float p = leia.nextFloat();
 
-        System.out.println("a area total é : " + total(c, p));
+        System.out.println("a media é  : " + total(c, p));
 
     }
 
     public static float total(float a, float b) {
-        return (a / b) * 0.5 ;
+        return a / b;
     }
 
 }
