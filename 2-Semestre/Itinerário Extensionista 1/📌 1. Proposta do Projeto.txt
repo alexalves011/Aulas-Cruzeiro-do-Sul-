@@ -1,0 +1,182 @@
+📌 1. Proposta do Projeto
+🎯 Tema
+
+Plataforma digital de orientação tecnológica para estudantes do ensino fundamental
+
+💡 Problema Identificado
+
+Muitos alunos do ensino fundamental:
+
+Não sabem o que é a área de tecnologia
+
+Acham que TI é só “mexer em computador”
+
+Não conhecem profissões como desenvolvedor, analista de dados, UX, segurança da informação
+
+Não têm orientação vocacional voltada para tecnologia
+
+🧩 2. Proposta de Solução
+
+Desenvolver um:
+
+🌐 Site ou Aplicativo Educacional com:
+
+✅ Teste vocacional voltado à área de tecnologia
+
+✅ Conteúdos explicativos simples sobre profissões de TI
+
+✅ Trilhas de aprendizado (iniciante → intermediário)
+
+✅ Jogos ou quizzes interativos
+
+✅ Indicação de cursos gratuitos (ex: programação básica)
+
+🏗 Estrutura do Projeto (Modelo para Entregar na Faculdade)
+1️⃣ Título do Projeto
+
+TechStart: Plataforma de Orientação Tecnológica para Jovens Estudantes
+
+2️⃣ Objetivo Geral
+
+Desenvolver uma plataforma digital para orientar alunos do ensino fundamental sobre oportunidades educacionais e profissionais na área de tecnologia.
+
+3️⃣ Objetivos Específicos
+
+Criar teste vocacional focado em tecnologia
+
+Apresentar profissões da área de TI
+
+Desenvolver conteúdos acessíveis e didáticos
+
+Estimular o interesse pela educação tecnológica
+
+Conectar alunos a recursos gratuitos de aprendizagem
+
+4️⃣ Público-Alvo
+
+Estudantes do 8º e 9º ano
+
+Escolas públicas
+
+Jovens de 12 a 15 anos
+
+🧠 Funcionalidades Sugeridas
+🔎 1. Teste Vocacional Tech
+
+Perguntas como:
+
+Você prefere resolver problemas lógicos ou criar designs?
+
+Gosta mais de trabalhar sozinho ou em equipe?
+
+Curte matemática ou criatividade visual?
+
+Resultado:
+
+Perfil Desenvolvedor
+
+Perfil Designer
+
+Perfil Analista
+
+Perfil Suporte Técnico
+
+Perfil Empreendedor Tech
+
+💼 2. Áreas Explicadas de Forma Simples
+
+Exemplos:
+
+👨‍💻 Desenvolvimento de Software
+
+🎨 UX/UI Design
+
+🔐 Segurança da Informação
+
+📊 Ciência de Dados
+
+🤖 Inteligência Artificial
+
+Explicando:
+
+O que faz
+
+Onde trabalha
+
+Média salarial (opcional)
+
+Como começar
+
+🛠 3. Tecnologias que Vocês Podem Usar
+
+Se for site:
+
+HTML
+
+CSS
+
+JavaScript
+
+React (se já souberem)
+
+Se for app:
+
+Flutter
+
+React Native
+
+Se quiserem algo mais simples:
+
+WordPress
+
+Google Forms + Site
+
+📊 Parte Extensionista (Muito Importante!)
+
+Para ser bem avaliado, inclua:
+
+📌 Ação na Comunidade:
+
+Aplicar o teste em uma escola pública
+
+Fazer uma palestra sobre profissões de TI
+
+Coletar dados de interesse dos alunos
+
+Gerar relatório de impacto
+
+📈 Indicadores de Impacto
+
+Quantidade de alunos atendidos
+
+Percentual que demonstrou interesse em TI
+
+Feedback dos professores
+
+Aumento no interesse por cursos técnicos
+
+📝 Justificativa Acadêmica (Você pode usar algo assim)
+
+A crescente demanda por profissionais de tecnologia exige que a orientação educacional comece ainda no ensino fundamental, promovendo inclusão digital, acesso à informação e redução das desigualdades sociais.
+
+💎 Diferencial (Se quiserem impressionar)
+
+Área para responsáveis entenderem as profissões
+
+Gamificação (pontuação e medalhas)
+
+Área para meninas na tecnologia
+
+Inclusão e acessibilidade
+
+🚀 Nome Criativo (Sugestões)
+
+TechStart
+
+Futuro Digital
+
+ConectaTech
+
+Rumo ao Código
+
+DescubraTI
