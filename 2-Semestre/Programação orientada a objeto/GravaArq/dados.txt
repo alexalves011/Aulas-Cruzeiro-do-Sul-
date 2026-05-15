@@ -1,0 +1,4 @@
+Ana;25;Analista
+João;35;Gerente
+Bruno;30;Desenvolvedor
+Alex;20;Estagiário
