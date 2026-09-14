@@ -1,0 +1,55 @@
+REDES DE Computadores
+
+Colisão quando dois computadores envia o pacote no mesmo instante 
+
+todo meio de comunicação tem o receptor 
+
+Simplex um transmite e o outro recebe (TV por assinatura)
+
+
+half duplex: somente um por vez (radio de comunicação) um fio ida e volta
+
+full duplex: dois fios não depende do outro a comunicação pode acontecer simultaneamente (utilizamos hoje)
+
+TX transmite
+SX recebe
+
+
+Linha privativa: circuito de comunicação privativo (reservado ou
+dedicado) a utilização permanente destinada a um cliente
+
+Latência tempo que o pacote da informação leva para sair da origem chegar no destino 
+
+conexão via tem alta latência devido a distancia 
+
+Rede determinística 
+
+
+Largura de Banda (Bandwidth): Capacidade máxima teórica de
+transmissão. Esses conceitos aparecem constantemente em:
+ VOIP;
+ Vídeo em streaming;
+ Jogos online;
+ Redes industriais.
+
+
+IP identificador logico
+
+firmware: software embarcado em hardware e faz aas configurações e diagnostico básico de equipamentos
+
+BIOS: todos computadores tem BIOS toda configuração, software embarcado no hardware
+
+DNS: servidor que converte o nome do site para ip
+
+endereço: IP placa de rede macAndress, os 3 primeiro dígitos identifica o fabricantes os 3 últimos identificar a placa cpf da placa de redes  
+
+
+
+
+
+
+
+
+
+
+
